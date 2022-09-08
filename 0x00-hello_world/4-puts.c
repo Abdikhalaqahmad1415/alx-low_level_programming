@@ -5,7 +5,7 @@
  *
  * return: always 0 (succesful)
  */
-int main(viod)
+int main(void)
 {
 	puts("\"programming is like biulding a multilingual puzzle");
 	return (0);
